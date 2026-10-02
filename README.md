@@ -1,19 +1,38 @@
-# Olá, eu sou Lucas Gabriel 👋
+# Lucas Gabriel Vilela 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPE.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE).
 
-💻 Tenho interesse em **Desenvolvimento, Dados e Infraestrutura**.
+💻 Interessado em Desenvolvimento, Dados e Infraestrutura.
 
-📚 Atualmente, estou estudando e desenvolvendo projetos para aprender mais sobre tecnologia e colocar meus conhecimentos em prática.
+## 🛠️ Stacks & Ferramentas
 
----
-
-### 🛠️ Tecnologias
-
-- Python
-- JavaScript
-- Git & GitHub
-- Docker
-- Kubernetes
-- Cloud
-- SQL
+<table>
+  <tr>
+    <th>💻 Desenvolvimento</th>
+    <th>📊 Dados & Monitoramento</th>
+    <th>🖥️ Infraestrutura</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,js,java" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql" />
+      <br>
+      Prometheus • Grafana
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="3">🔧 Ferramentas & Outros</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <img src="https://skillicons.dev/icons?i=git,github" />
+      <br>
+      ☁️ Cloud • 🤖 Inteligência Artificial • SQL
+    </td>
+  </tr>
+</table>
