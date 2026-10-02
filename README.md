@@ -8,8 +8,13 @@
 
 | **💻 Desenvolvimento** | **📊 Dados & Monitoramento** | **🖥️ Infraestrutura** |
 |---|---|---|
-| ![image](https://skillicons.dev/icons?i=python,js,java,react,nodejs) | ![image](https://skillicons.dev/icons?i=postgresql,mongodb) | ![image](https://skillicons.dev/icons?i=linux,docker,kubernetes) |
-| | Pandas • SQL • Prometheus • Grafana | ☁️ Cloud |
+| Python | PostgreSQL | Linux |
+| JavaScript | MongoDB | Docker |
+| Java | Pandas | Kubernetes |
+| React | SQL | Cloud |
+| Node.js | Prometheus | |
+| | Grafana | |
 | **🔧 Ferramentas & Outros** | | |
-| ![image](https://skillicons.dev/icons?i=git,github) | | |
-| ☁️ Cloud • 🤖 Inteligência Artificial | | |
+| Git | | |
+| GitHub | | |
+| Inteligência Artificial | | |
