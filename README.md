@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Lucas Gabriel 👋
 
-<!--
-**lucgabrielvilela/lucgabrielvilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPE.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em **Desenvolvimento, Dados e Infraestrutura**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente, estou estudando e desenvolvendo projetos para aprender mais sobre tecnologia e colocar meus conhecimentos em prática.
+
+---
+
+### 🛠️ Tecnologias
+
+- Python
+- JavaScript
+- Git & GitHub
+- Docker
+- Kubernetes
+- Cloud
+- SQL
