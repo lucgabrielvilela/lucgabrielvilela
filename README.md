@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ADS-IFPE-2e7d32?style=for-the-badge" alt="ADS IFPE" />
-  <img src="https://img.shields.io/badge/Foco-Dados%20%26%20Cloud-1f6feb?style=for-the-badge" alt="Foco em Dados e Cloud" />
-  <img src="https://img.shields.io/badge/Docker-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Docker e Kubernetes" />
+  <a href="https://www.instagram.com/lucgbrel/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:lucas.gvilela@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucgabrielvilela">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
