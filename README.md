@@ -1,6 +1,6 @@
 # Lucas Gabriel Vilela 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE).
+🎓 Estudante de ADS no Instituto Federal de Pernambuco (IFPE).
 
 💻 Interessado em Desenvolvimento, Dados e Infraestrutura.
 
@@ -8,7 +8,7 @@
 
 | **💻 Desenvolvimento** | **📊 Dados & Monitoramento** | **🖥️ Infraestrutura** |
 |---|---|---|
-| Python | PostgreSQL | Linux |
+| Python | Linux |
 | JavaScript | MongoDB | Docker |
 | Java | Pandas | Kubernetes |
 | React | SQL | Cloud |
